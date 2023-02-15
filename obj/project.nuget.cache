@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7i0nR90g8xEGVDkl4C2babXp6uXi1nO2hkVb9MgYP0DMLFw+Ux8onQAa848nnDS8nqBq/dHkorDBU9Z+gZ/PQ==",
+  "success": true,
+  "projectFilePath": "/Users/ali/Projects/ImageEdit/ImageEdit/ImageEdit.csproj",
+  "expectedPackageFiles": [
+    "/Users/ali/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/ali/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
